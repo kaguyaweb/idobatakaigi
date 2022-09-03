@@ -1,5 +1,8 @@
 import React from 'react';
 
+import SignIn from './SignIn';
+
+
 export default () => {
-  return <div>Hello, React!</div>;
+  return <SignIn />;
 };
