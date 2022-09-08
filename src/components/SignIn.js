@@ -43,7 +43,7 @@ export default function SignIn({ setName }) {
   const classes = useStyles();
   const [disabled, setDisabled] = useState(true);
   const [string, setString] = useState('');
-  const [isComposed, setisComposed] = useState(false);
+  const [isComposed, setIsComposed] = useState(false);
   // console.log(string);
 
   useEffect(() => {
@@ -77,8 +77,8 @@ export default function SignIn({ setName }) {
                 e.preventDefault();
               }
             }}
-            onCompositionStart={() => { setisComposed(true) }}
-            onCompositionEnd={() => { setisComposed(false) }}
+            onCompositionStart={() => { setIsComposed(true) }}
+            onCompositionEnd={() => { setIsComposed(false) }}
           />
           <Button
             type="button"
