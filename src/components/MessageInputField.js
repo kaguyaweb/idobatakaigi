@@ -17,7 +17,7 @@ const MessageInputField = ({ name }) => {
     const inputEl = useRef(null);
     const [text, setText] = useState('');
     const classes = useStyles();
-    const avatarPath = gravatarPath(''); // (name)
+    const avatarPath = gravatarPath(name); // (name)
     return (
     <div className={ classes.root }>
         <Grid container>
