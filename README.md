@@ -1,3 +1,6 @@
+# サイトのURL
+https://idobatakaigi-with-kag.web.app/
+
 # React Starter Kit in TypeScript
 
 ## Node のインストール方法
