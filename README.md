@@ -1,9 +1,13 @@
+# 説明
+チャットシステム。初めにニックネームを入力し、他の人とチャットをすることができる。
+
 # サイトのURL
 https://idobatakaigi-with-kag.web.app/
 
-# React Starter Kit in TypeScript
+#メモ
+## React Starter Kit in TypeScript
 
-## Node のインストール方法
+### Node のインストール方法
 
 本アプリケーションは [Node.js](https://nodejs.org/) を前提としています。macOS の場合だと以下の手順で導入できます。Node のバージョンは`.node-version`を参照し、同じものを使用してください。
 
@@ -15,7 +19,7 @@ https://idobatakaigi-with-kag.web.app/
     $ node -v
     v12.18.4
 
-## アプリケーションの起動方法(Dockerを使用しない場合)
+### アプリケーションの起動方法(Dockerを使用しない場合)
 
 本プロジェクトは、[create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) により作成したアプリケーションから React の学習に最低限必要な機能のみを厳選し、軽量化したものです。
 以下の手順でアプリケーションを起動できます。
