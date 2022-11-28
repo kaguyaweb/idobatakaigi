@@ -1,6 +1,10 @@
 # 説明
 チャットシステム。初めにニックネームを入力し、他の人とチャットをすることができる。
 
+# バージョン
+node: v12.18.4
+yarn: 1.22.19
+
 # サイトのURL
 https://idobatakaigi-with-kag.web.app/
 
