@@ -9,7 +9,7 @@
 https://idobatakaigi-with-kag.web.app/
 
 # イメージ
-![](scre1.png)
+![](scr1.png)
 ![](screen2.png)
 
 # メモ
