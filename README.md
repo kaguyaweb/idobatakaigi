@@ -8,6 +8,10 @@
 # サイトのURL
 https://idobatakaigi-with-kag.web.app/
 
+# イメージ
+[](scre1.png)
+[](screen2.png)
+
 # メモ
 ## React Starter Kit in TypeScript
 
